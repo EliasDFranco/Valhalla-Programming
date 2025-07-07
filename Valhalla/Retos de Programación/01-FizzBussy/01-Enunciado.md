@@ -1,4 +1,4 @@
-# 🧠 Ejercicio N.º 1 – Día 1  
+# 🧠 Ejercicio N.º 1 
 📅 Fecha: 07/07/2025  
 
 ## Enunciado
